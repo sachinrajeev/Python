@@ -1,0 +1,13 @@
+1. The difference between x and y of each part is calculated for each person
+
+2. This difference is compared with the difference of 2nd person.
+
+3. Absolute difference between 2 persons is calculated.
+
+4. Matrix of positions is created.
+
+5. dictionary with position as key and value is x,y as dictionary. 
+
+6. Body part with maximum variation is found.
+
+7. Average of difference is found by average of most diff values(149,138 =140 and    140,60=100). ie avg of person1,2,3. the value 100 is taken as cut off. if less than 100 means similar. 
