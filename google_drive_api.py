@@ -1,4 +1,5 @@
-
+# to access google drive for a shared url from user
+# download files and folders inside the shared folder
 
 from __future__ import print_function
 import pickle
